@@ -6,6 +6,7 @@ date: "December 14, 2020"
 output:
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 ```{r setup, include=FALSE} 
 knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
